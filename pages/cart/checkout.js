@@ -112,19 +112,19 @@ const CheckoutPage = () => {
                 <ul className="round-options round-options--two">
                   <li className="round-item round-item--bg">
                     <img src="/images/logos/inpost.svg" alt="Paypal" />
-                    <p>$20.00</p>
+                    <p>₹20.00</p>
                   </li>
                   <li className="round-item round-item--bg">
                     <img src="/images/logos/dpd.svg" alt="Paypal" />
-                    <p>$12.00</p>
+                    <p>₹12.00</p>
                   </li>
                   <li className="round-item round-item--bg">
                     <img src="/images/logos/dhl.svg" alt="Paypal" />
-                    <p>$15.00</p>
+                    <p>₹15.00</p>
                   </li>
                   <li className="round-item round-item--bg">
                     <img src="/images/logos/maestro.png" alt="Paypal" />
-                    <p>$10.00</p>
+                    <p>₹10.00</p>
                   </li>
                 </ul>
               </div>
@@ -137,7 +137,7 @@ const CheckoutPage = () => {
                 
                 <div className="checkout-total">
                   <p>Total cost</p>
-                  <h3>${priceTotal}</h3>
+                  <h3>₹{priceTotal.toFixed(2)}</h3>
                 </div>
               </div>
             </div>

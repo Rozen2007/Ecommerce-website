@@ -9,8 +9,6 @@ import { toggleFavProduct } from './../../../store/actions/userActions';
 const Content = ({ product }) => {
   const dispatch = useDispatch();
   const [count, setCount] = useState(1);
-  const [color, setColor] = useState('');
-  const [itemSize, setItemSize] = useState('');
 
   const onColorSet = (e) => setColor(e);
   const onSelectChange = (e) => setItemSize(e.target.value);
