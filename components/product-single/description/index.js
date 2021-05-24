@@ -8,12 +8,12 @@ const Description = ({ show }) => {
       <div className="product-description-block">
         <i className="icon-cart"></i>
         <h4>Details and product description</h4>
-        <p>White Summer Vibes T-shirt in the uiKit line with a colorful print. <br></br>Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.</p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s </p>
       </div>
       <div className="product-description-block">
         <i className="icon-cart"></i>
         <h4>Details and product description</h4>
-        <p>White Summer Vibes T-shirt in the uiKit line with a colorful print. <br></br>Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.</p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s.</p>
       </div>
     </section>
   );

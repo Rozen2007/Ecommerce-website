@@ -65,7 +65,7 @@ export const products = [
     category: 'T-shirt',
     currentPrice: 89.99,
     images: [
-      'https://img10.joybuy.com/N0/s560x560_jfs/t1/138282/4/500/194736/5ee2e3efE6cd95f97/8201a676577b301e.jpg.dpg',
+      '/images/products/product-2.jpg',
     ],
     punctuationReview: {
       countOpionions: 81,
@@ -122,7 +122,7 @@ export const products = [
     category: 'T-shirt',
     currentPrice: 100,
     images: [
-      'https://target.scene7.com/is/image/Target/GUEST_9472f9c7-1490-4252-aa81-c363ca6ab402?wid=488&hei=488&fmt=pjpeg',
+      '/images/products/product-3.jpg',
     ],
     punctuationReview: {
       countOpionions: 81,
@@ -179,7 +179,7 @@ export const products = [
     category: 'T-shirt',
     currentPrice: 89.99,
     images: [
-      'https://ih1.redbubble.net/image.948763908.9379/st,small,507x507-pad,600x600,f8f8f8.jpg',
+      '/images/products/product-4.jpg',
     ],
     punctuationReview: {
       countOpionions: 81,
@@ -236,7 +236,7 @@ export const products = [
     category: 'T-shirt',
     currentPrice: 100,
     images: [
-      'https://i.pinimg.com/originals/09/7c/79/097c795b250a1cabc79a8c93084ee82c.jpg',
+      '/images/products/product-5.jpg',
     ],
     punctuationReview: {
       countOpionions: 81,
@@ -294,7 +294,7 @@ export const products = [
     category: 'T-shirt',
     currentPrice: 89.99,
     images: [
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKN-m8fWBlseacvK4df2UnQ4idOM0fzDElA&usqp=CAU',
+      '/images/products/product-6.jpg',
     ],
     punctuationReview: {
       countOpionions: 81,
