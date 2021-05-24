@@ -8,7 +8,7 @@ export const products = [
     category: 'Asthetic Stickers',
     currentPrice: 100,
     images: [
-      '/images/products/product-1.png',
+      '/images/products/product-1.jpg',
     ],
     punctuationReview: {
       countOpionions: 81,
